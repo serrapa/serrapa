@@ -1,4 +1,4 @@
-# jQwerty - Pentester | Offensive Security Specialist
+# Pentester | Offensive Security Specialist
 
 <p>Yo! 👋 Here Paolo, security folk from Italy trying to keep this profile looks interesting!</p>
 
